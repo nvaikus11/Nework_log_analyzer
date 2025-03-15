@@ -13,3 +13,7 @@ This project analyzes network logs and determines if devices (routers, switches,
 Ensure you have Python installed. Then run:
 ```bash
 pip install -r requirements.txt
+
+FUTURE ENHANCEMENTS:
+Real-time processing using a database.
+Flask-based UI for better visualization.
