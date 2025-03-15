@@ -6,6 +6,10 @@ This project analyzes network logs and determines if devices (routers, switches,
 - Generates **random network logs**.
 - Compares logs against a **golden rule set**.
 - Uses **GPT API** to summarize discrepancies.
+# FUTURE ENHANCEMENTS:
+- Real-time processing using a database.
+- Flask-based UI for better visualization.
+
 
 ## Setup Instructions
 
@@ -14,6 +18,4 @@ Ensure you have Python installed. Then run:
 ```bash
 pip install -r requirements.txt
 
-FUTURE ENHANCEMENTS:
-Real-time processing using a database.
-Flask-based UI for better visualization.
+
